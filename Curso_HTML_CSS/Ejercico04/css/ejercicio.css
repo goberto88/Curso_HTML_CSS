@@ -1,0 +1,10 @@
+* {
+    width: 300px;
+    padding: 0px;
+    margin: 0;
+}
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+}
